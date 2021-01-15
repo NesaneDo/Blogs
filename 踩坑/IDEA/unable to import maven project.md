@@ -1,0 +1,1 @@
+﻿﻿﻿﻿# unable to import maven project使用版本 **2019.1**  的 IDEA 和 **3.6.3** 版本的 **maven** 构建 spring boot 项目时报 **`unable to import maven project`** , 看 log 后没有发现具体原因，后来经过查资料，原因是 **2019.1** 版本的 **IDEA** 不支持 **3.6.3** 版本的 **maven** ，降低 **maven**  版本后成功构建

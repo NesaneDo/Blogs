@@ -1,0 +1,1 @@
+﻿#解决 SpringBoot 整合 Mybatis 报错： Invalid bound statement (not found) ：xxx### 1. 将 **mapper** 文件夹放到 **resources** 目录下### 2. 配置文件中指定的规则要与 mapper 文件夹完全对应，如```mybatis.mapper-locations=classpath:/com/xxx/mapper/*.xml```### 则需要在 **resources** 目录下创建 **`com/xxx/mapper`** 文件夹，并且文件名要以 **`.xml`** 结尾

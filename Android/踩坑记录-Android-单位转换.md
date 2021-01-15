@@ -1,0 +1,1 @@
+#Android [踩坑记录] 单位转换###1. dp转px  在布局文件xml中一般我们用dp来作为大小单位，但在java程序中给view设置大小的时候需要转换成px。  但通过`float 变量名 = getResources().getDimension(R.dimen.xxx)`获取`value`下的`dimen文件`中的大小时，该变量的大小直接就是转换后的px大小
