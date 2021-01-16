@@ -14,4 +14,8 @@
 	url=<远程仓库地址2>
 ```
 
-> 提交方式：通过 **`git push <主机名，如 origin> --all`**
+**提交方式：通过 `git push <主机名，如 origin> --all`**
+
+****
+
+> 原文地址：https://cloud.tencent.com/developer/article/1572090
