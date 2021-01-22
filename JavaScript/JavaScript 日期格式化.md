@@ -8,6 +8,7 @@
  * @returns {*|string}
  */
 function parseDate(date, format = 'yyyy-MM-dd HH:mm:ss') {
+    if (!date) return ''; // 没有则直接返回空串
     date = new Date(date);
     let obj = {
         yyyy: date.getFullYear(),
