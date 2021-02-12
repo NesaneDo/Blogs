@@ -1,4 +1,4 @@
-# Axois 请求 Spring Boot 后台接口
+# Axois 封装 get post 请求 Spring Boot 后台接口
 
 Vue 结合 axois 使用，请求 Spring Boot 后台接口
 
