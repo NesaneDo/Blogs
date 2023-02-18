@@ -8,7 +8,11 @@
 
 > 若无特殊说明，文档中出现类似 `<xxx>` 表示必填 `xxx`，`[xxx]` 表示选填 `xxx`
 
+
+
 # 导航栏
+## AI
+- [基础知识.md](https://gitee.com/Rondo_11/Blogs/blob/master/AI/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 ## Algorithm
 ### 有限状态自动机
 - [新建文本文档.txt](https://gitee.com/Rondo_11/Blogs/blob/master/Algorithm/%E6%9C%89%E9%99%90%E7%8A%B6%E6%80%81%E8%87%AA%E5%8A%A8%E6%9C%BA/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3.txt)
@@ -44,6 +48,7 @@
 - [docker 部署 nginx 与 php中的坑.md](https://gitee.com/Rondo_11/Blogs/blob/master/Docker/docker%20%E9%83%A8%E7%BD%B2%20nginx%20%E4%B8%8E%20php%E4%B8%AD%E7%9A%84%E5%9D%91.md)
 ## Git
 - [Git 修改以前的 commit 信息.md](https://gitee.com/Rondo_11/Blogs/blob/master/Git/Git%20%E4%BF%AE%E6%94%B9%E4%BB%A5%E5%89%8D%E7%9A%84%20commit%20%E4%BF%A1%E6%81%AF.md)
+- [Git 修改以前的 commit 信息.pdf](https://gitee.com/Rondo_11/Blogs/blob/master/Git/Git%20%E4%BF%AE%E6%94%B9%E4%BB%A5%E5%89%8D%E7%9A%84%20commit%20%E4%BF%A1%E6%81%AF.pdf)
 - [Git 只拉取项目中某个文件夹.md](https://gitee.com/Rondo_11/Blogs/blob/master/Git/Git%20%E5%8F%AA%E6%8B%89%E5%8F%96%E9%A1%B9%E7%9B%AE%E4%B8%AD%E6%9F%90%E4%B8%AA%E6%96%87%E4%BB%B6%E5%A4%B9.md)
 - [Git 每次都输入账号密码问题.md](https://gitee.com/Rondo_11/Blogs/blob/master/Git/Git%20%E6%AF%8F%E6%AC%A1%E9%83%BD%E8%BE%93%E5%85%A5%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81%E9%97%AE%E9%A2%98.md)
 - [Git 配置 SSH 远程仓库出错 Please make sure you have the correct access rights and the repository exists.md](https://gitee.com/Rondo_11/Blogs/blob/master/Git/Git%20%E9%85%8D%E7%BD%AE%20SSH%20%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E5%87%BA%E9%94%99%20Please%20make%20sure%20you%20have%20the%20correct%20access%20rights%20and%20the%20repository%20exists.md)
@@ -121,6 +126,9 @@
 ### Linux
 - [CentOS 防火墙设置规则.md](https://gitee.com/Rondo_11/Blogs/blob/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Linux/CentOS%20%E9%98%B2%E7%81%AB%E5%A2%99%E8%AE%BE%E7%BD%AE%E8%A7%84%E5%88%99.md)
 - [ssh 连接.md](https://gitee.com/Rondo_11/Blogs/blob/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Linux/ssh%20%E8%BF%9E%E6%8E%A5.md)
+- [使用 docker-compose 搭建 ActionView.md](https://gitee.com/Rondo_11/Blogs/blob/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Linux/%E4%BD%BF%E7%94%A8%20docker-compose%20%E6%90%AD%E5%BB%BA%20ActionView.md)
+- [使用 docker-compose 搭建 ActionView.pdf](https://gitee.com/Rondo_11/Blogs/blob/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Linux/%E4%BD%BF%E7%94%A8%20docker-compose%20%E6%90%AD%E5%BB%BA%20ActionView.pdf)
+- [虚拟机内网穿透.md](https://gitee.com/Rondo_11/Blogs/blob/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Linux/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F.md)
 ### Nginx
 - [413 (Request Entity Too Large).md](https://gitee.com/Rondo_11/Blogs/blob/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Nginx/413%20%28Request%20Entity%20Too%20Large%29.md)
 - [CentOS Nginx 443 端口被占用.md](https://gitee.com/Rondo_11/Blogs/blob/master/%E6%9C%8D%E5%8A%A1%E5%99%A8/Nginx/CentOS%20Nginx%20443%20%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8.md)
