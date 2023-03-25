@@ -19,3 +19,27 @@
 ****
 
 > 原文地址：https://cloud.tencent.com/developer/article/1572090
+
+### 注意：
+
+当提交到不同的托管平台并且使用 ssh 方式时，需要不同的 public key
+
+1. 生成名称不同的密钥对
+
+2. 在 .ssh 目录下创建 config 文件，内容如下
+
+   ```sh
+   # gitee
+   Host gitee.com
+   HostName gitee.com
+   IdentitiesOnly true
+   IdentityFile C:/Users/xxx/.ssh/id_rsa_gitee
+   
+   # github
+   Host github.com
+   HostName github.com
+   IdentitiesOnly true
+   IdentityFile C:/Users/xxx/.ssh/id_rsa_github
+   ```
+
+   
